@@ -23,7 +23,7 @@ font:
   bold_italic:
     family: MonoLisa-Black
     style: Blod
-  size: 8.0
+  size: 10.0
   # Offset is the extra space around each character. offset.y can be thought of
   offset:
     x: 0
